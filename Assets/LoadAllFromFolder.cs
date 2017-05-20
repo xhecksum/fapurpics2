@@ -22,7 +22,7 @@ public class LoadAllFromFolder : MonoBehaviour
 
     public IEnumerator Start()
     {
-        VRSettings.renderScale = 2.0f;
+        //VRSettings.renderScale = 2.0f;
 
         readTextFile("./filepaths.txt");
 
