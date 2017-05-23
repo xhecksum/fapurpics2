@@ -13,7 +13,7 @@ controls
 
 menu - next directory
 
-trackpad - toggle fap/edit mode
+trackpad - toggle edit mode
 
 trigger - move/scale
 
